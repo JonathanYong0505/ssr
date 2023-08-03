@@ -22,4 +22,4 @@ To get more help on the Angular CLI use ng help or go check out the Angular CLI 
 
 Donate
 
-https://sendgb.com/wgsvhQKzy6B
+https://sendgb.com/sf9SrMPjq1V
